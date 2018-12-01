@@ -1,0 +1,16 @@
+{
+  "name": "omni-config",
+  "version": "1.0.0",
+  "description": "config system to use everywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "wanthering",
+  "license": "MIT",
+  "dependencies": {
+    "javascript-stringify": "^1.6.0",
+    "jest": "^23.6.0",
+    "jscodeshift": "^0.5.1"
+  }
+}
